@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431797085496",
+    "firebase_url": "https://imagelebelingwithmlkit.firebaseio.com",
+    "project_id": "imagelebelingwithmlkit",
+    "storage_bucket": "imagelebelingwithmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431797085496:android:1bb6cca92683aecb904dcd",
+        "android_client_info": {
+          "package_name": "com.example.imagelebelingwithmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431797085496-cimhl8tpal5afsunjc0bm3s6iat7lmt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagelebelingwithmlkit",
+            "certificate_hash": "a5a9e283b5af87ec4d804d8da3db18440e8678c5"
+          }
+        },
+        {
+          "client_id": "431797085496-f28ssd4ar57p784i30ilehcss838mi39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0OSsmR-NeTTDqYWOnT4-iYwt6UH23cxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431797085496-f28ssd4ar57p784i30ilehcss838mi39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
